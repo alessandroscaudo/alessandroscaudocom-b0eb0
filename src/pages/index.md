@@ -18,7 +18,7 @@ sections:
       - label: lorem-ipsum
         url: lorem-ipsum
         style: link
-        icon_class: twiter
+        icon_class: twitter
         new_window: false
         no_follow: false
         type: action
