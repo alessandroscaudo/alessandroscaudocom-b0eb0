@@ -18,7 +18,7 @@ sections:
       - label: ''
         url: lorem-ipsum
         style: icon
-        icon_class: fa-instagram
+        icon_class: fa-linkedin
         new_window: false
         no_follow: false
         type: action
