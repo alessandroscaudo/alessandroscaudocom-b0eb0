@@ -17,7 +17,7 @@ sections:
         style: button
       - label: fa-instagram
         url: lorem-ipsum
-        style: button
+        style: icon
         icon_class: fa-instagram
         new_window: false
         no_follow: false
