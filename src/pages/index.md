@@ -19,7 +19,7 @@ sections:
         url: lorem-ipsum
         style: button
         icon_class: fa-instagram
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
   - type: section_portfolio
