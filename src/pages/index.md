@@ -15,6 +15,7 @@ sections:
         label: Let's talk
         url: /contact
         style: icon
+        icon_class: fa-instagram
       - label: ''
         url: lorem-ipsum
         style: icon
