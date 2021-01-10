@@ -14,7 +14,7 @@ sections:
         template: action
         label: Let's talk
         url: /contact
-        style: button
+        style: icon
       - label: ''
         url: lorem-ipsum
         style: icon
