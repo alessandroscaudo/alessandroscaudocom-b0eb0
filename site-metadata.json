@@ -14,7 +14,7 @@
                 "template": "action",
                 "label": "Home",
                 "url": "/",
-                "style": "icon"
+                "style": "link"
             },
             {
                 "type": "action",
