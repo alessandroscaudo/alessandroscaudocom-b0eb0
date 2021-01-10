@@ -62,6 +62,15 @@
             {
                 "type": "action",
                 "template": "action",
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/",
+                "style": "icon",
+                "icon_class": "fa-linkedin",
+                "new_window": true
+            },
+            {
+                "type": "action",
+                "template": "action",
                 "label": "Twitter",
                 "url": "https://twitter.com/",
                 "style": "icon",
@@ -84,15 +93,6 @@
                 "url": "https://dribbble.com/",
                 "style": "icon",
                 "icon_class": "fa-dribbble",
-                "new_window": true
-            },
-            {
-                "type": "action",
-                "template": "action",
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon_class": "fa-linkedin",
                 "new_window": true
             }
         ],
